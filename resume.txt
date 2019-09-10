@@ -1,3 +1,4 @@
 name:Gulperi Dolkun
 occupation: ESL/EFL instructor 
 objectives: be chill
+prefered rate: enough 
